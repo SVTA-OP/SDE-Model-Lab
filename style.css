@@ -2,3 +2,11 @@ html {
     background-color: black;
     color: white;
 }
+
+form {
+    text-align: center;
+}
+
+.signout {
+    text-align: right;
+}
