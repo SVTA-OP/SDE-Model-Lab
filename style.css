@@ -16,6 +16,10 @@ h2 {
     color:aqua;
 }
 
+h3 {
+    color: lightcoral;
+}
+
 .signout {
     text-align: right;
 }
@@ -29,3 +33,10 @@ h2 {
     gap: 10px;
 }
 
+table {
+    border-width: 200px;
+    border-color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}   
