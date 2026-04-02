@@ -5,8 +5,27 @@ html {
 
 form {
     text-align: center;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color:aqua;
 }
 
 .signout {
     text-align: right;
 }
+
+.tab-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
